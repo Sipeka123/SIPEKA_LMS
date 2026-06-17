@@ -1,0 +1,1910 @@
+# Translation of Themes - eLearning in Indonesian
+# This file is distributed under the same license as the Themes - eLearning package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-11 09:06:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: id\n"
+"Project-Id-Version: Themes - eLearning\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "eLearning is a free WordPress LMS theme powered by Masteriyo LMS. Masteriyo is a revolutionary LMS plugin based on React JS making it not just super fast but also super easy to setup. Masteriyo plugin helps to create and sell online courses with ease. eLearning theme is Gutenberg, Elementor and any other page builder ready making it perfect choice to create a visually appealing professional looking LMS site. eLearning is light weight, SEO optimized, AMP ready, RTL ready, major browsers compatible, fully responsive, translation ready and backed up by our awesome support team. It has tons of customizer options related to header, menu, blog page, single post page, footer, layouts, typography, designs and many more.  It comes with pre-built Elementor and Gutenberg demos that you can import with few clicks via the recommended demo importer plugin. Checkout the live demo at https://demo.masteriyo.com/elearning."
+msgstr "eLearning adalah tema WordPress LMS gratis yang didukung oleh Masteriyo LMS. Masteriyo adalah plugin LMS revolusioner berbasis React JS yang tidak hanya super cepat tetapi juga sangat mudah dikelola. Plugin Masteriyo membantu membuat dan menjual kursus online dengan mudah. Tema eLearning siap digunakan dengan Gutenberg, Elementor, dan page builder lainnya, menjadikannya pilihan sempurna untuk membuat situs LMS yang menarik secara visual dan terlihat profesional. eLearning ringan, dioptimalkan untuk SEO, siap AMP, siap RTL, kompatibel dengan browser utama, responsif penuh, bisa diterjemahkan, dan didukung oleh tim bantuan kami yang luar biasa. Tema ini memiliki banyak opsi kustomisasi pada bagian header, menu, halaman blog, halaman pos tunggal, footer, tata letak, tipografi, desain, dan banyak lagi. Dilengkapi dengan demo Elementor dan Gutenberg yang sudah dibuat sebelumnya yang dapat Anda impor dengan beberapa klik melalui plugin pengimpor demo yang direkomendasikan. Lihat demo langsung di https://demo.masteriyo.com/elearning."
+
+#. Theme Name of the theme
+#: style.css inc/class-elearning-utils.php:170 inc/helper/utils.php:103
+#: inc/helper/utils.php:146
+#, gp-priority: high
+msgid "eLearning"
+msgstr "eLearning"
+
+#. Translators: 1: Panel Title.
+#: functions.php:75
+msgid "Customizing ▶ %s"
+msgstr "Mengkustomisasi ▶ %s"
+
+#: inc/customizer/options/additional/performance.php:12
+msgid "Demo Migrated"
+msgstr "Demo Dimigrasi"
+
+#: inc/customizer/options/additional/performance.php:19
+msgid "Demo migrated"
+msgstr "Demo dimigrasi"
+
+#: inc/customizer/options/header-builder/header-builder.php:225
+msgid "Builder area middle left"
+msgstr "Area builder tengah kiri"
+
+#: inc/customizer/options/header-builder/header-builder.php:220
+msgid "Builder Main area"
+msgstr "Builder area Utama"
+
+#: inc/customizer/options/header-builder/header-builder.php:213
+msgid "Builder area top right"
+msgstr "Area builder kanan atas"
+
+#: inc/customizer/options/header-builder/header-builder.php:208
+msgid "Builder area top middle"
+msgstr "Area builder tengah atas"
+
+#: inc/customizer/options/header-builder/header-builder.php:203
+msgid "Builder area top left"
+msgstr "Area builder kiri atas"
+
+#: inc/customizer/options/header-builder/header-builder.php:198
+msgid "Builder area top"
+msgstr "Area builder atas"
+
+#: inc/customizer/options/header-builder/header-builder.php:119
+#: inc/customizer/panels-sections/panels-sections.php:299
+msgid "Toggle Button"
+msgstr "Tombol Toggle"
+
+#: inc/customizer/options/header-builder/header-builder.php:36
+#: inc/customizer/options/header-builder/header-button.php:6
+#: inc/customizer/options/header/header-button.php:8
+msgid "Button 1"
+msgstr "Tombol 1"
+
+#: inc/customizer/options/header-builder/header-builder.php:31
+#: inc/customizer/options/header-builder/quaternary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:209
+msgid "Quaternary Menu"
+msgstr "Menu Kuarter"
+
+#: inc/customizer/options/header-builder/header-builder.php:26
+#: inc/customizer/options/header-builder/tertiary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:204
+msgid "Tertiary Menu"
+msgstr "Menu Tersier"
+
+#: inc/customizer/options/header-builder/header-builder.php:11
+msgid "Site Title & Logo"
+msgstr "Judul Situs & Logo"
+
+#: inc/customizer/options/header-builder/cart.php:6
+#: inc/customizer/options/header-builder/header-builder.php:73
+#: inc/customizer/options/header-builder/header-builder.php:124
+#: inc/customizer/panels-sections/panels-sections.php:294
+msgid "Cart"
+msgstr "Keranjang"
+
+#: inc/customizer/options/global/sidebar.php:57
+msgid "Archive"
+msgstr "Arsipkan"
+
+#: inc/customizer/options/global/colors.php:192
+msgid "Outside Background"
+msgstr "Latar Belakang Luar"
+
+#: inc/customizer/options/global/colors.php:178
+msgid "Inside Background"
+msgstr "Latar Belakang Dalam"
+
+#: inc/customizer/options/global/colors.php:124
+msgid "Base"
+msgstr "Dasar"
+
+#: inc/customizer/options/global/colors.php:114
+msgid "Theme Colors"
+msgstr "Warna Tema"
+
+#: inc/customizer/options/global/button.php:130
+#: inc/customizer/options/header/header-button.php:118
+msgid "Radius"
+msgstr "Jarak"
+
+#: inc/customizer/options/footer/footer-widget.php:23
+#: inc/customizer/options/header-builder/primary-menu.php:80
+msgid "Advanced Style"
+msgstr "Gaya Lanjutan"
+
+#: inc/customizer/options/footer/footer-widget.php:8
+#: inc/customizer/panels-sections/panels-sections.php:164
+msgid "Footer Column"
+msgstr "Kolom Footer"
+
+#: inc/customizer/options/footer/footer-bar.php:263
+msgid "Footer Content"
+msgstr "Konten Footer"
+
+#: inc/customizer/options/footer/footer-bar.php:248
+#: inc/customizer/options/header/top-bar.php:189
+msgid "Right Widget Navigation"
+msgstr "Navigasi Widget Kanan"
+
+#: inc/customizer/options/footer/footer-bar.php:181
+#: inc/customizer/options/header/top-bar.php:124
+msgid "Left Widget Navigation"
+msgstr "Navigasi Widget Kiri"
+
+#: inc/customizer/options/footer/footer-bar.php:122
+#: inc/customizer/options/footer/footer-bar.php:205
+#: inc/customizer/options/header/top-bar.php:87
+#: inc/customizer/options/header/top-bar.php:152
+msgid "Content Type"
+msgstr "Jenis Konten"
+
+#: inc/customizer/options/footer/footer-bar.php:87
+#: inc/customizer/options/global/layouts.php:118
+#: inc/customizer/options/header/primary-menu.php:57
+msgid "Width"
+msgstr "Lebar"
+
+#: inc/customizer/options/footer/footer-bar.php:8
+#: inc/customizer/panels-sections/panels-sections.php:169
+msgid "Footer Bar"
+msgstr "Bar Footer"
+
+#: inc/customizer/options/footer-builder/widget-1.php:119
+#: inc/customizer/options/footer-builder/widget-2.php:119
+#: inc/customizer/options/footer-builder/widget-3.php:119
+#: inc/customizer/options/footer-builder/widget-4.php:119
+#: inc/customizer/options/footer-builder/widget-5.php:119
+#: inc/customizer/options/footer-builder/widget-6.php:119
+#: inc/customizer/options/header-builder/widget-1.php:119
+#: inc/customizer/options/header-builder/widget-2.php:119
+msgid "Content Typography"
+msgstr "Tipografi Konten"
+
+#: inc/customizer/options/footer-builder/widget-1.php:78
+#: inc/customizer/options/footer-builder/widget-2.php:78
+#: inc/customizer/options/footer-builder/widget-3.php:78
+#: inc/customizer/options/footer-builder/widget-4.php:78
+#: inc/customizer/options/footer-builder/widget-5.php:78
+#: inc/customizer/options/footer-builder/widget-6.php:78
+#: inc/customizer/options/header-builder/widget-1.php:78
+#: inc/customizer/options/header-builder/widget-2.php:78
+msgid "Content Color"
+msgstr "Content Color"
+
+#: inc/customizer/options/footer-builder/widget-1.php:55
+#: inc/customizer/options/footer-builder/widget-2.php:55
+#: inc/customizer/options/footer-builder/widget-3.php:55
+#: inc/customizer/options/footer-builder/widget-4.php:55
+#: inc/customizer/options/footer-builder/widget-5.php:55
+#: inc/customizer/options/footer-builder/widget-6.php:55
+#: inc/customizer/options/header-builder/widget-1.php:55
+#: inc/customizer/options/header-builder/widget-2.php:55
+msgid "Title Typography"
+msgstr "Tipografi Judul"
+
+#: inc/customizer/options/footer-builder/top-area.php:5
+#: inc/customizer/options/header-builder/top-area.php:7
+#: inc/customizer/panels-sections/panels-sections.php:304
+#: inc/customizer/panels-sections/panels-sections.php:319
+msgid "Top Area"
+msgstr "Area Atas"
+
+#: inc/customizer/options/footer-builder/socials.php:6
+#: inc/customizer/options/footer-builder/socials.php:13
+#: inc/customizer/options/header-builder/header-builder.php:68
+#: inc/customizer/options/header-builder/socials.php:6
+#: inc/customizer/options/header-builder/socials.php:13
+msgid "Social"
+msgstr "Sosial"
+
+#: inc/customizer/options/footer-builder/main-area.php:197
+#: inc/customizer/options/footer/footer-widget.php:280
+#: inc/customizer/options/header-builder/primary-menu.php:60
+#: inc/customizer/options/header-builder/secondary-menu.php:41
+#: inc/customizer/options/header-builder/tertiary-menu.php:42
+msgid "Border Bottom Color"
+msgstr "Warna Garis Bawah"
+
+#: inc/customizer/options/footer-builder/main-area.php:190
+#: inc/customizer/options/footer-builder/widget-1.php:133
+#: inc/customizer/options/footer-builder/widget-2.php:133
+#: inc/customizer/options/footer-builder/widget-3.php:133
+#: inc/customizer/options/footer-builder/widget-4.php:133
+#: inc/customizer/options/footer-builder/widget-5.php:133
+#: inc/customizer/options/footer-builder/widget-6.php:133
+#: inc/customizer/options/footer/footer-widget.php:264
+#: inc/customizer/options/header-builder/primary-menu.php:48
+#: inc/customizer/options/header-builder/secondary-menu.php:29
+#: inc/customizer/options/header-builder/tertiary-menu.php:30
+msgid "Border Bottom Width"
+msgstr "Lebar Garis Bawah"
+
+#: inc/customizer/options/footer-builder/main-area.php:180
+msgid "Widget Item List"
+msgstr "Daftar Item Widget"
+
+#: inc/customizer/options/footer-builder/main-area.php:168
+#: inc/customizer/options/footer-builder/widget-1.php:14
+#: inc/customizer/options/footer-builder/widget-2.php:14
+#: inc/customizer/options/footer-builder/widget-3.php:14
+#: inc/customizer/options/footer-builder/widget-4.php:14
+#: inc/customizer/options/footer-builder/widget-5.php:14
+#: inc/customizer/options/footer-builder/widget-6.php:14
+#: inc/customizer/options/header-builder/widget-1.php:14
+#: inc/customizer/options/header-builder/widget-2.php:14
+msgid "Title Color"
+msgstr "Title Color"
+
+#: inc/customizer/options/footer-builder/main-area.php:5
+#: inc/customizer/options/header-builder/main-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:309
+#: inc/customizer/panels-sections/panels-sections.php:324
+msgid "Main Area"
+msgstr "Area Utama"
+
+#: inc/customizer/options/footer-builder/html-2.php:14
+#: inc/customizer/options/header-builder/html-2.php:14
+msgid "Text/HTML for HTML 2"
+msgstr "Teks/HTML untuk HTML 2"
+
+#: inc/customizer/options/footer-builder/html-1.php:14
+#: inc/customizer/options/header-builder/html-1.php:14
+msgid "Text/HTML for HTML 1"
+msgstr "Teks/HTML untuk HTML 1"
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:19
+#: inc/customizer/options/footer-builder/footer-menu.php:19
+#: inc/customizer/options/header-builder/quaternary-menu.php:19
+#: inc/customizer/options/header-builder/tertiary-menu.php:19
+msgid "Select a Menu"
+msgstr "Pilih Menu"
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:11
+#: inc/customizer/options/footer-builder/footer-menu.php:11
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: inc/customizer/panels-sections/panels-sections.php:39
+msgid "Builder"
+msgstr "Builder"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:66
+#: inc/customizer/panels-sections/panels-sections.php:124
+#: inc/customizer/panels-sections/panels-sections.php:129
+msgid "Socials"
+msgstr "Sosial"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:61
+#: inc/customizer/panels-sections/panels-sections.php:224
+msgid "Menu 2"
+msgstr "Menu 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:56
+#: inc/customizer/panels-sections/panels-sections.php:219
+msgid "Menu 1"
+msgstr "Menu 1"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:50
+#: inc/customizer/options/footer-builder/widget-6.php:6
+#: inc/customizer/panels-sections/panels-sections.php:289
+msgid "Widget 6"
+msgstr "Widget 6"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:44
+#: inc/customizer/options/footer-builder/widget-5.php:6
+#: inc/customizer/panels-sections/panels-sections.php:284
+msgid "Widget 5"
+msgstr "Widget 5"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:38
+#: inc/customizer/options/footer-builder/widget-4.php:6
+#: inc/customizer/panels-sections/panels-sections.php:279
+msgid "Widget 4"
+msgstr "Widget 4"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:32
+#: inc/customizer/options/footer-builder/widget-3.php:6
+#: inc/customizer/panels-sections/panels-sections.php:274
+msgid "Widget 3"
+msgstr "Widget 3"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:26
+#: inc/customizer/options/footer-builder/widget-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:62
+#: inc/customizer/options/header-builder/header-builder.php:113
+#: inc/customizer/options/header-builder/widget-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:259
+#: inc/customizer/panels-sections/panels-sections.php:269
+msgid "Widget 2"
+msgstr "Widget 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:20
+#: inc/customizer/options/footer-builder/widget-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:56
+#: inc/customizer/options/header-builder/header-builder.php:107
+#: inc/customizer/options/header-builder/widget-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:254
+#: inc/customizer/panels-sections/panels-sections.php:264
+msgid "Widget 1"
+msgstr "Widget 1"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:15
+#: inc/customizer/options/footer-builder/html-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:51
+#: inc/customizer/options/header-builder/header-builder.php:102
+#: inc/customizer/options/header-builder/html-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:249
+#: inc/customizer/panels-sections/panels-sections.php:339
+msgid "HTML 2"
+msgstr "HTML 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:10
+#: inc/customizer/options/footer-builder/html-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:46
+#: inc/customizer/options/header-builder/header-builder.php:97
+#: inc/customizer/options/header-builder/html-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:244
+#: inc/customizer/panels-sections/panels-sections.php:334
+msgid "HTML 1"
+msgstr "HTML 1"
+
+#: inc/customizer/options/footer-builder/copyright.php:42
+#: inc/customizer/options/footer-builder/html-1.php:27
+#: inc/customizer/options/footer-builder/html-2.php:27
+#: inc/customizer/options/global/colors.php:146
+#: inc/customizer/options/header-builder/html-1.php:27
+#: inc/customizer/options/header-builder/html-2.php:27
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/customizer/options/footer-builder/copyright.php:6
+#: inc/customizer/options/footer-builder/copyright.php:21
+#: inc/customizer/options/footer-builder/footer-builder.php:71
+#: inc/customizer/panels-sections/panels-sections.php:134
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:119
+#: inc/customizer/options/footer-builder/main-area.php:143
+#: inc/customizer/options/footer-builder/top-area.php:119
+#: inc/customizer/options/global/button.php:118
+#: inc/customizer/options/header-builder/bottom-area.php:107
+#: inc/customizer/options/header-builder/header-button.php:138
+#: inc/customizer/options/header-builder/main-area.php:107
+#: inc/customizer/options/header-builder/top-area.php:92
+msgid "Border Width"
+msgstr "Lebar Garis"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:103
+#: inc/customizer/options/footer-builder/main-area.php:127
+#: inc/customizer/options/footer-builder/top-area.php:103
+#: inc/customizer/options/header-builder/bottom-area.php:91
+#: inc/customizer/options/header-builder/main-area.php:91
+msgid "Margin"
+msgstr "Margin"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:45
+#: inc/customizer/options/footer-builder/main-area.php:45
+#: inc/customizer/options/footer-builder/top-area.php:45
+#: inc/customizer/options/header-builder/bottom-area.php:33
+#: inc/customizer/options/header-builder/logo.php:42
+#: inc/customizer/options/header-builder/main-area.php:33
+#: inc/customizer/options/header-builder/top-area.php:35
+msgid "Height"
+msgstr "Tinggi"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:5
+#: inc/customizer/options/header-builder/bottom-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:314
+#: inc/customizer/panels-sections/panels-sections.php:329
+msgid "Bottom Area"
+msgstr "Area Bawah"
+
+#: inc/customizer/options/content/blog-archive.php:163
+msgid "Modified Date"
+msgstr "Tanggal Diubah"
+
+#: inc/customizer/options/content/blog-archive.php:162
+msgid "Published Date"
+msgstr "Tanggal Publikasi"
+
+#: inc/core/class-elearning-after-setup-theme.php:332
+#: inc/customizer/options/header-builder/header-builder.php:21
+#: inc/customizer/options/header-builder/secondary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:199
+msgid "Secondary Menu"
+msgstr "Menu Sekunder"
+
+#: inc/compatibility/woocommerce/class-elearning-woocommerce.php:86
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja Anda"
+
+#: template-parts/content/content-404.php:30
+msgid "Go Back"
+msgstr "Kembali"
+
+#: template-parts/content/content-404.php:24
+msgid "We’re sorry, the page you requested could not be found. Please go back to the homepage"
+msgstr "Kami mohon maaf, halaman yang Anda minta tidak dapat ditemukan. Mohon kembali ke beranda"
+
+#: template-parts/content/content-404.php:19
+msgid "Oops! Page Not Found"
+msgstr "Waduh! Halaman Tidak Ditemukan"
+
+#: inc/customizer/panels-sections/panels-sections.php:345
+msgid "Leave a Review on .org"
+msgstr "Berikan Ulasan di .org"
+
+#: inc/customizer/panels-sections/panels-sections.php:109
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/customizer/panels-sections/panels-sections.php:94
+msgid "Header Search"
+msgstr "Header Search"
+
+#: inc/customizer/panels-sections/panels-sections.php:79
+msgid "Footer Builder"
+msgstr "Builder Footer"
+
+#: inc/customizer/panels-sections/panels-sections.php:13
+msgid "Page Element"
+msgstr "Elemen Halaman"
+
+#: inc/customizer/panels-sections/panels-sections.php:74
+msgid "Header Builder"
+msgstr "Builder Header"
+
+#: inc/customizer/options/header/transparent-header.php:31
+msgid "404 Page"
+msgstr "Halaman 404"
+
+#: inc/customizer/options/header/transparent-header.php:22
+msgid "Front Page (Latest Posts)"
+msgstr "Halaman Depan (Pos Terbaru)"
+
+#: inc/customizer/options/header/transparent-header.php:13
+msgid "Conditions"
+msgstr "Syarat"
+
+#: inc/customizer/options/header/top-bar.php:7
+#: inc/customizer/panels-sections/panels-sections.php:69
+msgid "Top Bar"
+msgstr "Bar Atas"
+
+#: inc/customizer/options/header/main-header.php:99
+msgid "Header Search Navigation"
+msgstr "Navigasi Pencarian Header"
+
+#: inc/customizer/options/header/main-header.php:92
+msgid "Components"
+msgstr "Komponen"
+
+#: inc/customizer/options/header/main-header.php:8
+#: inc/customizer/panels-sections/panels-sections.php:84
+msgid "Main Header"
+msgstr "Header Utama"
+
+#: inc/customizer/options/header-builder/primary-menu.php:193
+#: inc/customizer/options/header-builder/secondary-menu.php:139
+#: inc/customizer/options/header-builder/tertiary-menu.php:140
+#: inc/customizer/options/header/primary-menu.php:229
+msgid "Sub Menu"
+msgstr "Sub Menu"
+
+#: inc/customizer/options/header-builder/primary-menu.php:72
+#: inc/customizer/options/header-builder/secondary-menu.php:53
+#: inc/customizer/options/header-builder/tertiary-menu.php:54
+#: inc/customizer/options/header/primary-menu.php:88
+msgid "Main Menu"
+msgstr "Menu Utama"
+
+#: inc/customizer/options/header-builder/primary-menu.php:26
+#: inc/customizer/options/header/primary-menu.php:25
+msgid "Priority plus navigation"
+msgstr "Prioritas plus navigasi"
+
+#: inc/customizer/options/header-builder/primary-menu.php:18
+#: inc/customizer/options/header-builder/secondary-menu.php:17
+msgid "Select Menu Navigation"
+msgstr "Pilih Navigasi Menu"
+
+#: inc/customizer/options/header-builder/logo.php:143
+#: inc/customizer/options/header/site-identity.php:128
+msgid "Tagline"
+msgstr "Slogan"
+
+#: inc/customizer/options/header-builder/logo.php:12
+#: inc/customizer/options/header/site-identity.php:14
+msgid "Site Logo"
+msgstr "Logo Situs"
+
+#: inc/customizer/options/header-builder/html-1.php:12
+#: inc/customizer/options/header-builder/html-2.php:12
+#: template-parts/header-builder-elements/html-1.php:2
+#: template-parts/header-builder-elements/html-2.php:2
+msgid "Insert Text Here"
+msgstr "Masukkan Teks di Sini"
+
+#: inc/customizer/options/header-builder/header-button.php:157
+msgid "Border Radius"
+msgstr "Radius Garis"
+
+#: inc/customizer/options/header-builder/header-builder.php:265
+#: inc/customizer/options/header-builder/offset-area.php:6
+#: inc/customizer/panels-sections/panels-sections.php:229
+msgid "Offset Area"
+msgstr "Area Offset"
+
+#: inc/customizer/options/header-builder/header-builder.php:242
+msgid "Bottom"
+msgstr "Dasar"
+
+#: inc/customizer/options/header-builder/header-builder.php:235
+msgid "Main right"
+msgstr "Kanan utama"
+
+#: inc/customizer/options/header-builder/header-builder.php:230
+msgid "Main center"
+msgstr "Tengah utama"
+
+#: inc/customizer/options/header-builder/toggle-button.php:6
+msgid "Load Google fonts locally"
+msgstr "Muat font Google secara lokal"
+
+#: inc/customizer/options/header-builder/header-builder.php:257
+msgid "Bottom right"
+msgstr "Kanan bawah"
+
+#: inc/customizer/options/header-builder/header-builder.php:247
+msgid "Bottom left"
+msgstr "Kiri bawah"
+
+#: inc/customizer/options/header-builder/header-builder.php:252
+msgid "Bottom center"
+msgstr "Bawah tengah"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:295
+msgid "Optimization"
+msgstr "Optimasi"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:287
+#: inc/customizer/panels-sections/panels-sections.php:29
+msgid "Additional"
+msgstr "Tambahan"
+
+#: inc/customizer/options/global/colors.php:138
+msgid "Heading Color ( H1 - H6 )"
+msgstr "Warna Heading ( H1 - H6 )"
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:65
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:62
+#: inc/customizer/options/content/blog-archive.php:50
+#: inc/customizer/panels-sections/panels-sections.php:139
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:61
+msgid "Education"
+msgstr "Edukasi"
+
+#: inc/class-elearning-utils.php:277
+#: inc/customizer/options/footer/footer-bar.php:127
+#: inc/customizer/options/footer/footer-bar.php:210
+#: inc/customizer/options/header/top-bar.php:90
+#: inc/customizer/options/header/top-bar.php:155 inc/helper/utils.php:184
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:371
+msgid "None"
+msgstr "None"
+
+#: inc/class-elearning-utils.php:176 inc/helper/utils.php:109
+#: inc/helper/utils.php:152
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Link, 4: WordPress
+#. Link.
+#: inc/class-elearning-utils.php:156
+#: inc/customizer/options/footer-builder/copyright.php:14
+#: inc/customizer/options/footer/footer-bar.php:137 inc/helper/utils.php:89
+#: inc/helper/utils.php:135
+msgid "Copyright &copy; %1$s %2$s. Powered by %3$s and %4$s."
+msgstr "Hak Cipta &copy; %1$s %2$s. Didukung oleh %3$s dan %4$s."
+
+#: inc/class-breadcrumb-trail.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/class-breadcrumb-trail.php:766 inc/class-breadcrumb-trail.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/class-breadcrumb-trail.php:765 inc/class-breadcrumb-trail.php:829
+#: inc/class-breadcrumb-trail.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/class-breadcrumb-trail.php:764 inc/class-breadcrumb-trail.php:791
+#: inc/class-breadcrumb-trail.php:828 inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1184
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/class-breadcrumb-trail.php:749
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/class-breadcrumb-trail.php:733
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:717
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:300
+msgid "Week %s"
+msgstr "Minggu %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:298
+msgid "Minute %s"
+msgstr "Menit %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:296
+msgid "Comment Page %s"
+msgstr "Halaman Komentar %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:294
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:292
+msgid "Search results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/class-breadcrumb-trail.php:290
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/class-breadcrumb-trail.php:289
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: inc/class-breadcrumb-trail.php:288
+msgid "Home"
+msgstr "Beranda"
+
+#: inc/class-breadcrumb-trail.php:287
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: inc/class-breadcrumb-trail.php:286
+msgid "Browse:"
+msgstr "Jelajahi:"
+
+#: inc/admin/class-elearning-welcome-notice.php:47
+msgid "Clicking the button will install and activate the ThemeGrill Demo Importer plugin."
+msgstr "Mengeklik tombol akan menginstal dan mengaktifkan plugin ThemeGrill Demo Importer."
+
+#: inc/admin/class-elearning-welcome-notice.php:45
+msgid "Get started with eLearning"
+msgstr "Mulai dengan eLearning"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-elearning-welcome-notice.php:37
+msgid "Welcome! Thank you for choosing eLearning! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr "Selamat datang! Terima kasih telah memilih eLearning! Untuk memanfaatkan sepenuhnya yang terbaik yang dapat ditawarkan tema kami, mohon pastikan Anda mengunjungi %1$shalaman selamat datang%2$s kami."
+
+#: inc/admin/class-elearning-welcome-notice.php:30
+msgid "elearning"
+msgstr "elearning"
+
+#: inc/admin/class-elearning-theme-review-notice.php:133
+msgid "I have a query"
+msgstr "Saya punya pertanyaan"
+
+#: inc/admin/class-elearning-theme-review-notice.php:128
+msgid "Maybe later"
+msgstr "Mungkin nanti"
+
+#: inc/admin/class-elearning-theme-review-notice.php:123
+msgid "I already did!"
+msgstr "Sudah saya lakukan!"
+
+#: inc/admin/class-elearning-theme-review-notice.php:118
+msgid "Sure, I'd love to!"
+msgstr "Tentu, dengan senang hati!"
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-elearning-theme-review-notice.php:109
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr "Pada dasarnya, ini akan mendorong kami untuk merilis pembaruan secara teratur dengan fitur baru & perbaikan bug sehingga Anda dapat terus menggunakan tema tanpa masalah dan juga memberikan bantuan gratis seperti yang telah kami lakukan. %s"
+
+#: inc/admin/class-elearning-theme-review-notice.php:103
+msgid "What benefit would you have?"
+msgstr "Manfaat apa yang Anda akan dapatkan?"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/class-elearning-theme-review-notice.php:95
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr "Semoga Anda mendapatkan pengalaman yang menyenangkan dengan tema %1$s %2$s %3$s. Mohon berikan ulasan yang bagus untuk tema ini."
+
+#. translators: %s: Smile icon
+#: inc/admin/class-elearning-theme-review-notice.php:86
+msgid "The above word is just to draw your attention. %s"
+msgstr "Kata di atas hanya untuk menarik perhatian Anda. %s"
+
+#: inc/admin/class-elearning-theme-review-notice.php:78
+msgid "elearning Logo"
+msgstr "Logo elearning"
+
+#: inc/admin/class-elearning-notice.php:62
+#: inc/admin/class-elearning-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Curang ya?"
+
+#: inc/admin/class-elearning-notice.php:58
+#: inc/admin/class-elearning-notice.php:77
+#: inc/admin/class-elearning-theme-review-notice.php:155
+#: inc/admin/class-elearning-theme-review-notice.php:173
+#: inc/migration/class-elearning-migration.php:1772
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Aksi gagal. Mohon segarkan halaman dan coba lagi."
+
+#: inc/admin/class-elearning-dashboard.php:137
+msgid "here &#129066;"
+msgstr "di sini &#129066;"
+
+#. translators: 1: Theme Name, 2: Review Link.
+#: inc/admin/class-elearning-dashboard.php:135
+msgid "Love using %1$s? Help us by leaving a review %2$s"
+msgstr "Suka menggunakan %1$s? Bantu kami dengan memberikan ulasan %2$s"
+
+#: inc/admin/class-elearning-dashboard.php:129
+msgid "Review"
+msgstr "Ulasan"
+
+#: inc/admin/class-elearning-dashboard.php:122
+msgid "Import demo site and start editing as your liking."
+msgstr "Impor situs demo dan mulai mengedit sesuai keinginan Anda."
+
+#: inc/admin/class-elearning-dashboard.php:118
+msgid "Demos."
+msgstr "Demo."
+
+#. translators: 1: Theme Name, 2: Demo Link.
+#: inc/admin/class-elearning-dashboard.php:116
+msgid "You do not need to build your site from scratch, %1$s provides a variety of %2$s"
+msgstr "Anda tidak perlu membangun situs dari awal, %1$s menyediakan berbagai %2$s"
+
+#: inc/admin/class-elearning-dashboard.php:110
+msgid "Starter Demos"
+msgstr "Demo Starter"
+
+#: inc/admin/class-elearning-dashboard.php:93
+msgid "Quick customize settings"
+msgstr "Pengaturan kustomisasi cepat"
+
+#: inc/admin/class-elearning-dashboard.php:84
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/class-elearning-dashboard.php:83
+msgid "Demos"
+msgstr "Demo"
+
+#: inc/admin/class-elearning-dashboard.php:82
+msgid "Theme Info"
+msgstr "Info Tema"
+
+#: inc/admin/class-elearning-dashboard.php:62
+msgid "Footer Options"
+msgstr "Opsi Footer"
+
+#: inc/admin/class-elearning-dashboard.php:57
+msgid "Blog Options"
+msgstr "Opsi Blog"
+
+#: inc/admin/class-elearning-dashboard.php:52
+msgid "Header Options"
+msgstr "Opsi Header"
+
+#: inc/admin/class-elearning-dashboard.php:47
+msgid "Set Color"
+msgstr "Atur Warna"
+
+#: inc/admin/class-elearning-dashboard.php:42
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:259
+msgid "Upload Logo"
+msgstr "Unggah Logo"
+
+#: inc/admin/class-elearning-dashboard.php:27
+#: inc/admin/class-elearning-dashboard.php:28
+msgid "eLearning Options"
+msgstr "Opsi eLearning"
+
+#: inc/admin/class-elearning-admin.php:78
+msgid "Demo Library"
+msgstr "Pustaka Demo"
+
+#: inc/admin/class-elearning-admin.php:75
+msgid "Redirecting"
+msgstr "Mengarahkan"
+
+#: inc/admin/class-elearning-admin.php:68
+msgid "Activate ThemeGrill Demo Importer Plugin"
+msgstr "Aktifkan Plugin ThemeGrill Demo Importer"
+
+#: inc/admin/class-elearning-admin.php:65
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#: inc/admin/class-elearning-admin.php:55
+msgid "Install ThemeGrill Demo Importer Plugin"
+msgstr "Instal Plugin ThemeGrill Demo Importer"
+
+#: inc/admin/class-elearning-admin.php:52
+msgid "Processing"
+msgstr "Memproses"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: inc/core/class-elearning-widgets.php:64
+msgid "Add widgets here."
+msgstr "Tambah widget di sini."
+
+#: inc/core/class-elearning-widgets.php:94
+msgid "Footer Bottom Bar Right Sidebar"
+msgstr "Sidebar Kanan Bar Bawah Footer"
+
+#: inc/core/class-elearning-widgets.php:93
+msgid "Footer Bottom Bar Left Sidebar"
+msgstr "Sidebar Kiri Bar Bawah Footer"
+
+#: inc/core/class-elearning-widgets.php:92
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:194
+#: assets/build/meta.js:1
+msgid "Footer Four"
+msgstr "Footer Empat"
+
+#: inc/core/class-elearning-widgets.php:91
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:193
+#: assets/build/meta.js:1
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: inc/core/class-elearning-widgets.php:90
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:192
+#: assets/build/meta.js:1
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: inc/core/class-elearning-widgets.php:89
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:191
+#: assets/build/meta.js:1
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: inc/core/class-elearning-widgets.php:88
+msgid "Header Top Bar Right Sidebar"
+msgstr "Sidebar Kanan Bar Atas Header"
+
+#: inc/core/class-elearning-widgets.php:87
+msgid "Header Top Bar Left Sidebar"
+msgstr "Sidebar Kiri Bar Atas Header"
+
+#: inc/core/class-elearning-widgets.php:86
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:190
+#: assets/build/meta.js:1
+msgid "Sidebar Left"
+msgstr "Sidebar Kiri"
+
+#: inc/core/class-elearning-widgets.php:85
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:189
+#: assets/build/meta.js:1
+msgid "Sidebar Right"
+msgstr "Sidebar Kanan"
+
+#: inc/customizer/options/global/colors.php:118
+msgid "Primary"
+msgstr "Utama"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:38
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Satu pendapat tentang &ldquo;%1$s&rdquo;"
+
+#: template-parts/entry/entry-content.php:48
+msgid "Pages:"
+msgstr "Laman:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/entry/entry-content.php:32
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:29
+#: template-parts/entry/entry-meta.php:58
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: template-parts/content/content-none.php:41
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang sesuai dengan kata kunci Anda. Silahkan coba lagi dengan kata kunci lain."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: template-parts/content/content-none.php:17
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: sidebar.php:30
+msgid "Click here to add widgets for this area"
+msgstr "Klik di sini untuk menambahkan widget untuk area ini"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:132
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:127
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:102
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tak ada komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "By %s"
+msgstr "Oleh %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Diposting %s"
+
+#: inc/template-functions.php:226
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/template-functions.php:224
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+#. translators: %s: year.
+#: inc/template-functions.php:217
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#. translators: %s: month
+#: inc/template-functions.php:213
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#. translators: %s: day
+#: inc/template-functions.php:209
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#. translators: %s: author.
+#: inc/template-functions.php:195
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/structure/footer.php:35
+msgid "Scroll to top"
+msgstr "Gulir ke atas"
+
+#: inc/meta-boxes/class-elearning-meta-box.php:210
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:415
+#: assets/build/meta.js:1
+msgid "Enable Page Header"
+msgstr "Aktifkan Header Halaman"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:356
+#: assets/build/meta.js:1
+msgid "Menu Item Active Color"
+msgstr "Warna Item Menu Aktif"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:346
+#: assets/build/meta.js:1
+msgid "Menu Item Hover Color"
+msgstr "Warna Hover Item Menu"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:334
+#: assets/build/meta.js:1
+msgid "Menu Item Color"
+msgstr "Warna Item Menu"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:263
+msgid "Remove Logo"
+msgstr "Hapus Logo"
+
+#: inc/customizer/options/header-builder/header-builder.php:82
+#: inc/customizer/options/header-builder/logo.php:20
+#: inc/customizer/options/header/site-identity.php:22
+#: inc/customizer/panels-sections/panels-sections.php:189
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:246
+#: assets/build/meta.js:1
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:231
+msgid "Disable"
+msgstr "Nonaktifkan"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:172
+msgid "Remove content margin"
+msgstr "Hapus margin konten"
+
+#: inc/customizer/options/content/blog-archive.php:53
+#: inc/customizer/options/footer/footer-bar.php:16
+#: inc/customizer/options/header/header-button.php:15
+#: inc/customizer/options/header/page-header.php:9
+#: inc/customizer/options/header/primary-menu.php:15
+#: inc/customizer/options/header/top-bar.php:15
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:82
+#: assets/build/meta.js:1
+msgid "General"
+msgstr "Umum"
+
+#: inc/customizer/override-defaults.php:102
+msgid "Header Video URL"
+msgstr "URL Video Header"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:218
+#: assets/build/meta.js:1
+msgid "Enable Transparent Header"
+msgstr "Aktifkan Header Transparan"
+
+#: inc/customizer/options/header-builder/logo.php:59
+#: inc/customizer/options/header/site-identity.php:44
+msgid "Site Title"
+msgstr "Judul Situs"
+
+#: inc/customizer/options/header-builder/logo.php:33
+#: inc/customizer/options/header/site-identity.php:35
+msgid "Upload 2X times the size of your current logo. Eg: If your current logo size is 120*60 then upload 240*120 sized logo."
+msgstr "Unggah logo dengan ukuran 2X lipat dari logo saat ini. Contoh: Jika ukuran logo Anda saat ini 120*60, unggah logo berukuran 240*120."
+
+#: inc/customizer/options/header-builder/logo.php:31
+#: inc/customizer/options/header/site-identity.php:33
+msgid "Retina Logo"
+msgstr "Logo Retina"
+
+#: inc/customizer/options/header/primary-menu.php:19
+msgid "Disable Primary Menu"
+msgstr "Nonaktifkan Menu Utama"
+
+#: inc/customizer/options/header-builder/primary-menu.php:133
+#: inc/customizer/options/header-builder/quaternary-menu.php:45
+#: inc/customizer/options/header-builder/secondary-menu.php:80
+#: inc/customizer/options/header-builder/tertiary-menu.php:81
+#: inc/customizer/options/header/primary-menu.php:167
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:395
+msgid "Right Border"
+msgstr "Garis Kanan"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:387
+msgid "Left Border"
+msgstr "Garis Kiri"
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:379
+msgid "Underline Border"
+msgstr "Border Garis Bawah"
+
+#: inc/customizer/options/header/primary-menu.php:96
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:366
+#: assets/build/meta.js:1
+msgid "Active Menu Item Style"
+msgstr "Gaya Item Menu Aktif"
+
+#: inc/core/class-elearning-after-setup-theme.php:333
+#: inc/customizer/options/header-builder/header-builder.php:87
+#: inc/customizer/options/header-builder/mobile-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:287
+#: inc/customizer/panels-sections/panels-sections.php:214
+msgid "Mobile Menu"
+msgstr "Menu Ponsel"
+
+#: inc/customizer/options/footer/footer-bar.php:237
+#: inc/customizer/options/header/top-bar.php:179
+msgid "Select a Menu for Right Content"
+msgstr "Pilih Menu untuk Konten Kanan"
+
+#: inc/customizer/options/footer/footer-bar.php:220
+#: inc/customizer/options/header/top-bar.php:168
+msgid "Text/HTML for Right Content"
+msgstr "Teks/HTML untuk Konten Kanan"
+
+#: inc/customizer/options/header-builder/primary-menu.php:39
+#: inc/customizer/options/header/main-header.php:74
+#: inc/customizer/options/header/primary-menu.php:44
+msgid "Border Bottom"
+msgstr "Garis Bawah"
+
+#: inc/customizer/options/header-builder/header-builder.php:41
+#: inc/customizer/options/header-builder/search.php:6
+#: inc/customizer/options/header/header-search.php:8
+#: inc/customizer/panels-sections/panels-sections.php:239
+#: inc/customizer/customind/build/customind.js:1
+msgid "Search"
+msgstr "Cari"
+
+#: inc/customizer/options/header-builder/header-button.php:28
+#: inc/customizer/options/header/header-button.php:35
+msgid "Open link in a new tab"
+msgstr "Buka tautan di tab baru"
+
+#: inc/customizer/options/global/typography.php:602
+msgid "Heading"
+msgstr "Judul"
+
+#: inc/customizer/options/global/typography.php:574
+msgid "Body"
+msgstr "Tubuh"
+
+#: inc/customizer/options/global/sidebar.php:79
+msgid "Page"
+msgstr "Laman"
+
+#: inc/customizer/options/global/typography.php:878
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/options/global/typography.php:834
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/options/global/typography.php:790
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/options/global/typography.php:746
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/options/global/typography.php:703
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/options/global/typography.php:659
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/options/global/layouts.php:68
+msgid "Container Width"
+msgstr "Container Width"
+
+#: inc/customizer/options/global/layouts.php:59
+msgid "Separate"
+msgstr "Pisahkan"
+
+#: inc/customizer/options/global/layouts.php:58
+msgid "Boxed"
+msgstr "Kotak"
+
+#: inc/customizer/options/global/layouts.php:57
+msgid "Wide"
+msgstr "Lebar"
+
+#: inc/customizer/options/global/button.php:106
+#: inc/customizer/options/global/colors.php:131
+#: inc/customizer/options/header/header-button.php:108
+msgid "Border"
+msgstr "Garis"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:127
+#: inc/customizer/options/footer-builder/main-area.php:151
+#: inc/customizer/options/footer-builder/top-area.php:127
+#: inc/customizer/options/footer-builder/widget-1.php:145
+#: inc/customizer/options/footer-builder/widget-2.php:145
+#: inc/customizer/options/footer-builder/widget-3.php:145
+#: inc/customizer/options/footer-builder/widget-4.php:145
+#: inc/customizer/options/footer-builder/widget-5.php:145
+#: inc/customizer/options/footer-builder/widget-6.php:145
+#: inc/customizer/options/global/button.php:126
+#: inc/customizer/options/header-builder/bottom-area.php:115
+#: inc/customizer/options/header-builder/header-button.php:147
+#: inc/customizer/options/header-builder/main-area.php:114
+#: inc/customizer/options/header-builder/top-area.php:100
+msgid "Border Color"
+msgstr "Warna Garis"
+
+#: inc/customizer/options/additional/breadcrumb.php:43
+#: inc/customizer/options/header-builder/search.php:21
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: inc/customizer/options/footer/footer-widget.php:252
+msgid "Widget List Item"
+msgstr "Item Daftar Widget"
+
+#: inc/customizer/options/content/blog-sidebar.php:68
+msgid "Widget Content"
+msgstr "Konten Widget"
+
+#: inc/customizer/options/content/blog-sidebar.php:8
+msgid "Widget Title"
+msgstr "Judul Widget"
+
+#: inc/customizer/options/footer/footer-widget.php:221
+msgid "Hide Widget Title"
+msgstr "Sembunyikan Judul Widget"
+
+#: inc/customizer/options/footer/footer-bar.php:77
+#: inc/customizer/options/footer/footer-widget.php:99
+msgid "Border Top"
+msgstr "Garis Atas"
+
+#: inc/customizer/options/footer/footer-bar.php:196
+#: inc/customizer/options/header/top-bar.php:144
+msgid "Right Content"
+msgstr "Konten Kanan"
+
+#: inc/customizer/options/footer/footer-bar.php:170
+#: inc/customizer/options/header/top-bar.php:114
+msgid "Select a Menu for Left Content"
+msgstr "Pilih Menu untuk Konten Kiri"
+
+#: inc/customizer/options/footer-builder/copyright.php:23
+#: inc/customizer/options/footer/footer-bar.php:146
+msgid "Docs Link"
+msgstr "Tautan Dokumen"
+
+#: inc/customizer/options/footer/footer-bar.php:144
+#: inc/customizer/options/header/top-bar.php:103
+msgid "Text/HTML for Left Content"
+msgstr "Teks/HTML untuk Konten Kiri"
+
+#: inc/customizer/options/footer-builder/main-area.php:163
+#: inc/customizer/options/footer/footer-bar.php:130
+#: inc/customizer/options/footer/footer-bar.php:213
+#: inc/customizer/options/footer/footer-widget.php:206
+#: inc/customizer/options/header/top-bar.php:93
+#: inc/customizer/options/header/top-bar.php:158
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/customizer/options/footer/footer-bar.php:128
+#: inc/customizer/options/footer/footer-bar.php:211
+#: inc/customizer/options/header/top-bar.php:91
+#: inc/customizer/options/header/top-bar.php:156
+msgid "Text/HTML"
+msgstr "Teks/HTML"
+
+#: inc/customizer/options/footer/footer-bar.php:113
+#: inc/customizer/options/header/top-bar.php:79
+msgid "Left Content"
+msgstr "Konten Kiri"
+
+#: inc/customizer/options/content/single-post.php:153
+msgid "Meta Tags"
+msgstr "Tag Meta"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:57
+#: inc/customizer/options/footer-builder/copyright.php:34
+#: inc/customizer/options/footer-builder/html-1.php:19
+#: inc/customizer/options/footer-builder/html-2.php:19
+#: inc/customizer/options/footer-builder/main-area.php:57
+#: inc/customizer/options/footer-builder/top-area.php:57
+#: inc/customizer/options/footer/footer-bar.php:100
+#: inc/customizer/options/footer/footer-bar.php:270
+#: inc/customizer/options/footer/footer-bar.php:290
+#: inc/customizer/options/footer/footer-widget.php:129
+#: inc/customizer/options/footer/footer-widget.php:151
+#: inc/customizer/options/footer/footer-widget.php:176
+#: inc/customizer/options/footer/footer-widget.php:231
+#: inc/customizer/options/global/button.php:6
+#: inc/customizer/options/header-builder/bottom-area.php:45
+#: inc/customizer/options/header-builder/cart.php:15
+#: inc/customizer/options/header-builder/header-button.php:34
+#: inc/customizer/options/header-builder/html-1.php:19
+#: inc/customizer/options/header-builder/html-2.php:19
+#: inc/customizer/options/header-builder/logo.php:74
+#: inc/customizer/options/header-builder/logo.php:157
+#: inc/customizer/options/header-builder/main-area.php:45
+#: inc/customizer/options/header-builder/search.php:14
+#: inc/customizer/options/header-builder/top-area.php:47
+#: inc/customizer/options/header/header-button.php:50
+#: inc/customizer/options/header/main-header.php:80
+#: inc/customizer/options/header/primary-menu.php:73
+#: inc/customizer/options/header/site-identity.php:59
+#: inc/customizer/options/header/site-identity.php:142
+#: inc/customizer/options/header/top-bar.php:45
+msgid "Color"
+msgstr "Warna"
+
+#: inc/customizer/options/additional/breadcrumb.php:78
+#: inc/customizer/options/additional/scroll-to-top.php:27
+#: inc/customizer/options/additional/scroll-to-top.php:52
+#: inc/customizer/options/footer-builder/copyright.php:57
+#: inc/customizer/options/footer-builder/footer-menu-2.php:38
+#: inc/customizer/options/footer-builder/footer-menu.php:38
+#: inc/customizer/options/footer-builder/html-1.php:42
+#: inc/customizer/options/footer-builder/html-2.php:42
+#: inc/customizer/options/footer-builder/main-area.php:80
+#: inc/customizer/options/footer/footer-bar.php:303
+#: inc/customizer/options/footer/footer-widget.php:189
+#: inc/customizer/options/global/button.php:18
+#: inc/customizer/options/global/button.php:38
+#: inc/customizer/options/global/colors.php:161
+#: inc/customizer/options/header-builder/header-button.php:47
+#: inc/customizer/options/header-builder/header-button.php:68
+#: inc/customizer/options/header-builder/html-1.php:42
+#: inc/customizer/options/header-builder/html-2.php:42
+#: inc/customizer/options/header-builder/primary-menu.php:126
+#: inc/customizer/options/header-builder/quaternary-menu.php:38
+#: inc/customizer/options/header-builder/secondary-menu.php:73
+#: inc/customizer/options/header-builder/tertiary-menu.php:74
+#: inc/customizer/options/header/header-button.php:62
+#: inc/customizer/options/header/header-button.php:81
+#: inc/customizer/options/header/primary-menu.php:160
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/customizer/options/footer-builder/widget-1.php:66
+#: inc/customizer/options/footer-builder/widget-2.php:66
+#: inc/customizer/options/footer-builder/widget-3.php:66
+#: inc/customizer/options/footer-builder/widget-4.php:66
+#: inc/customizer/options/footer-builder/widget-5.php:66
+#: inc/customizer/options/footer-builder/widget-6.php:66
+#: inc/customizer/options/footer/footer-bar.php:282
+#: inc/customizer/options/footer/footer-widget.php:169
+#: inc/customizer/options/header-builder/header-button.php:19
+#: inc/customizer/options/header-builder/widget-1.php:66
+#: inc/customizer/options/header-builder/widget-2.php:66
+#: inc/customizer/options/header/header-button.php:26
+msgid "Link"
+msgstr "Tautan"
+
+#: inc/customizer/options/footer/footer-widget.php:145
+#: inc/customizer/options/header-builder/header-button.php:13
+#: inc/customizer/options/header/header-button.php:20
+msgid "Text"
+msgstr "Teks"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:87
+#: inc/customizer/options/footer-builder/main-area.php:111
+#: inc/customizer/options/footer-builder/top-area.php:87
+#: inc/customizer/options/global/button.php:93
+#: inc/customizer/options/global/layouts.php:88
+#: inc/customizer/options/header-builder/bottom-area.php:75
+#: inc/customizer/options/header-builder/header-button.php:123
+#: inc/customizer/options/header-builder/main-area.php:75
+#: inc/customizer/options/header-builder/top-area.php:77
+#: inc/customizer/options/header/header-button.php:95
+msgid "Padding"
+msgstr "Padding"
+
+#: inc/customizer/options/footer-builder/html-1.php:50
+#: inc/customizer/options/footer-builder/html-2.php:50
+#: inc/customizer/options/header-builder/html-1.php:50
+#: inc/customizer/options/header-builder/html-2.php:50
+#: inc/customizer/customind/build/customind.js:1
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: inc/customizer/options/header/page-header.php:112
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/header/page-header.php:111
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: inc/customizer/options/header/page-header.php:110
+msgid "Span"
+msgstr "Rentang"
+
+#: inc/customizer/options/header/page-header.php:109
+msgid "Heading 6"
+msgstr "Penajukan 6"
+
+#: inc/customizer/options/header/page-header.php:108
+msgid "Heading 5"
+msgstr "Penajukan 5"
+
+#: inc/customizer/options/header/page-header.php:107
+msgid "Heading 4"
+msgstr "Penajukan 4"
+
+#: inc/customizer/options/header/page-header.php:106
+msgid "Heading 3"
+msgstr "Penajukan 3"
+
+#: inc/customizer/options/header/page-header.php:105
+msgid "Heading 2"
+msgstr "Penajukan 2"
+
+#: inc/customizer/options/header/page-header.php:104
+msgid "Heading 1"
+msgstr "Penajukan 1"
+
+#: inc/customizer/options/header/page-header.php:99
+msgid "Markup"
+msgstr "Markup"
+
+#: inc/customizer/options/header/page-header.php:90
+msgid "Content Area"
+msgstr "Area Konten"
+
+#: inc/customizer/options/header/page-header.php:84
+msgid "Position"
+msgstr "Posisi"
+
+#: inc/customizer/options/header/page-header.php:67
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: inc/customizer/options/content/blog-archive.php:292
+#: inc/customizer/options/footer/footer-widget.php:14
+#: inc/customizer/options/header-builder/logo.php:66
+#: inc/customizer/options/header-builder/toggle-button.php:13
+#: inc/customizer/options/header/header-search.php:14
+#: inc/customizer/options/header/page-header.php:22
+#: inc/customizer/options/header/page-header.php:76
+#: inc/customizer/options/header/site-identity.php:51
+#: inc/customizer/options/header/top-bar.php:20
+#: inc/customizer/options/header/transparent-header.php:6
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:227
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: template-parts/entry/entry-footer.php:18
+msgid "Read More"
+msgstr "Selengkapnya"
+
+#: inc/customizer/options/content/blog-archive.php:211
+#: inc/customizer/options/content/single-post.php:181
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/customizer/options/content/blog-archive.php:210
+#: inc/customizer/options/content/single-post.php:180
+msgid "Date"
+msgstr "Tanggal"
+
+#: inc/customizer/options/content/blog-archive.php:209
+#: inc/customizer/options/content/single-post.php:179
+msgid "Author"
+msgstr "Penulis"
+
+#: inc/customizer/options/content/blog-archive.php:208
+#: inc/customizer/options/content/single-post.php:178
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/customizer/options/content/blog-archive.php:207
+#: inc/customizer/options/content/single-post.php:177
+msgid "Comments"
+msgstr "Komentar"
+
+#: inc/customizer/options/content/blog-archive.php:182
+#: inc/customizer/options/content/single-post.php:152
+#: inc/customizer/options/footer/footer-widget.php:214
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer/options/content/blog-archive.php:181
+#: inc/customizer/options/content/single-post.php:151
+msgid "Featured Image"
+msgstr "Gambar Unggulan"
+
+#: inc/customizer/options/content/blog-archive.php:170
+#: inc/customizer/options/content/single-post.php:140
+msgid "Post Elements"
+msgstr "Elemen Pos"
+
+#: inc/customizer/options/content/blog-archive.php:281
+msgid "Full Content"
+msgstr "Konten Penuh"
+
+#: inc/customizer/options/content/blog-archive.php:269
+#: inc/customizer/options/content/blog-archive.php:280
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: functions.php:76
+msgid "Customizing"
+msgstr "Kustomisasi"
+
+#: inc/customizer/options/additional/breadcrumb.php:71
+#: inc/customizer/options/additional/scroll-to-top.php:20
+#: inc/customizer/options/additional/scroll-to-top.php:45
+#: inc/customizer/options/footer-builder/copyright.php:50
+#: inc/customizer/options/footer-builder/footer-menu-2.php:31
+#: inc/customizer/options/footer-builder/footer-menu.php:31
+#: inc/customizer/options/footer-builder/html-1.php:35
+#: inc/customizer/options/footer-builder/html-2.php:35
+#: inc/customizer/options/footer-builder/main-area.php:73
+#: inc/customizer/options/footer-builder/widget-1.php:153
+#: inc/customizer/options/footer-builder/widget-2.php:153
+#: inc/customizer/options/footer-builder/widget-3.php:153
+#: inc/customizer/options/footer-builder/widget-4.php:153
+#: inc/customizer/options/footer-builder/widget-5.php:153
+#: inc/customizer/options/footer-builder/widget-6.php:153
+#: inc/customizer/options/footer/footer-bar.php:296
+#: inc/customizer/options/footer/footer-widget.php:182
+#: inc/customizer/options/global/button.php:12
+#: inc/customizer/options/global/button.php:32
+#: inc/customizer/options/global/colors.php:154
+#: inc/customizer/options/header-builder/header-button.php:40
+#: inc/customizer/options/header-builder/header-button.php:61
+#: inc/customizer/options/header-builder/html-1.php:35
+#: inc/customizer/options/header-builder/html-2.php:35
+#: inc/customizer/options/header-builder/logo.php:82
+#: inc/customizer/options/header-builder/primary-menu.php:119
+#: inc/customizer/options/header-builder/quaternary-menu.php:31
+#: inc/customizer/options/header-builder/secondary-menu.php:66
+#: inc/customizer/options/header-builder/tertiary-menu.php:67
+#: inc/customizer/options/header/header-button.php:56
+#: inc/customizer/options/header/header-button.php:75
+#: inc/customizer/options/header/primary-menu.php:153
+#: inc/customizer/options/header/site-identity.php:67
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/options/content/blog-archive.php:54
+#: inc/customizer/options/content/blog-archive.php:305
+#: inc/customizer/options/content/blog-meta.php:14
+#: inc/customizer/options/footer/footer-bar.php:23
+#: inc/customizer/options/footer/footer-bar.php:50
+#: inc/customizer/options/footer/footer-widget.php:64
+#: inc/customizer/options/global/layouts.php:54
+#: inc/customizer/options/header/header-button.php:45
+#: inc/customizer/options/header/main-header.php:17
+#: inc/customizer/options/header/main-header.php:48
+#: inc/customizer/options/header/page-header.php:10
+#: inc/customizer/options/header/primary-menu.php:139
+#: inc/customizer/options/header/top-bar.php:37
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:278
+#: assets/build/meta.js:1 inc/customizer/customind/build/customind.js:1
+msgid "Style"
+msgstr "Gaya"
+
+#: inc/customizer/options/footer/footer-widget.php:113
+#: inc/customizer/customind/build/customind.js:1
+msgid "Size"
+msgstr "Ukuran"
+
+#: inc/customizer/options/global/sidebar.php:46
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:188
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:223
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:370
+#: assets/build/meta.js:1 inc/customizer/customind/build/customind.js:1
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:318
+#: inc/customizer/panels-sections/panels-sections.php:174
+msgid "Scroll to Top"
+msgstr "Gulir ke Atas"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:310
+msgid "Footer Bottom Bar"
+msgstr "Bar Bawah Footer"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:302
+msgid "Footer Widgets"
+msgstr "Widget Footer"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:280
+#: inc/customizer/panels-sections/panels-sections.php:21
+#: inc/customizer/panels-sections/panels-sections.php:25
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:272
+#: inc/customizer/options/global/layouts.php:95
+#: inc/customizer/panels-sections/panels-sections.php:64
+#: inc/customizer/panels-sections/panels-sections.php:159
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:182
+#: assets/build/meta.js:1
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:264
+#: inc/customizer/options/content/blog-archive.php:183
+#: inc/customizer/panels-sections/panels-sections.php:154
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:256
+#: inc/customizer/options/global/sidebar.php:68
+#: inc/customizer/panels-sections/panels-sections.php:144
+msgid "Single Post"
+msgstr "Pos Tunggal"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:248
+msgid "Blog/Archive"
+msgstr "Blog/Arsip"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:241
+#: inc/customizer/options/content/blog-archive.php:184
+#: inc/customizer/options/content/single-post.php:154
+msgid "Content"
+msgstr "Konten"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:233
+#: inc/customizer/options/header/page-header.php:5
+#: inc/customizer/options/header/page-header.php:16
+#: inc/customizer/options/header/page-header.php:89
+#: inc/customizer/panels-sections/panels-sections.php:104
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:97
+#: assets/build/meta.js:1
+msgid "Page Header"
+msgstr "Header Halaman"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:224
+msgid "Primary Menu : Dropdown Item"
+msgstr "Menu Utama: Item Dropdown"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:215
+msgid "Primary Menu : Menu Item"
+msgstr "Menu Utama : Item Menu"
+
+#: inc/core/class-elearning-after-setup-theme.php:331
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:206
+#: inc/customizer/options/header-builder/header-builder.php:16
+#: inc/customizer/options/header-builder/primary-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:8
+#: inc/customizer/panels-sections/panels-sections.php:89
+#: inc/customizer/panels-sections/panels-sections.php:194
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:92
+#: template-parts/header-builder-elements/toggle-button.php:32
+#: assets/build/meta.js:1
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:198
+#: inc/customizer/options/footer/footer-bar.php:129
+#: inc/customizer/options/footer/footer-bar.php:212
+#: inc/customizer/options/header/top-bar.php:92
+#: inc/customizer/options/header/top-bar.php:157
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:190
+#: inc/customizer/panels-sections/panels-sections.php:114
+msgid "Transparent Header"
+msgstr "Header Transparan"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:182
+#: inc/customizer/panels-sections/panels-sections.php:99
+#: inc/customizer/panels-sections/panels-sections.php:234
+msgid "Header Button"
+msgstr "Tombol Header"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:174
+msgid "Header Main Area"
+msgstr "Area Utama Header"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:166
+msgid "Header Top Bar"
+msgstr "Bar Atas Header"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:158
+#: inc/customizer/panels-sections/panels-sections.php:33
+msgid "Header Media"
+msgstr "Media Tajuk"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:150
+#: inc/customizer/options/content/blog-archive.php:333
+#: inc/customizer/options/header-builder/logo.php:6
+#: inc/customizer/options/header/site-identity.php:8
+msgid "Site Identity"
+msgstr "Identitas Situs"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:143
+#: inc/customizer/panels-sections/panels-sections.php:9
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:87
+#: assets/build/meta.js:1
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:135
+#: inc/customizer/options/content/blog-archive.php:287
+#: inc/customizer/options/header-builder/header-builder.php:92
+#: inc/customizer/panels-sections/panels-sections.php:59
+msgid "Button"
+msgstr "Tombol"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:126
+msgid "Headings ( H1 - H6 )"
+msgstr "Judul ( H1 - H6 )"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:117
+msgid "Base Typography"
+msgstr "Tipografi Dasar"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:109
+#: inc/customizer/options/content/blog-sidebar.php:54
+#: inc/customizer/options/content/blog-sidebar.php:114
+#: inc/customizer/options/footer-builder/copyright.php:100
+#: inc/customizer/options/footer-builder/footer-menu-2.php:80
+#: inc/customizer/options/footer-builder/footer-menu.php:80
+#: inc/customizer/options/global/button.php:81
+#: inc/customizer/options/header-builder/header-button.php:111
+#: inc/customizer/options/header-builder/logo.php:129
+#: inc/customizer/options/header-builder/logo.php:204
+#: inc/customizer/options/header-builder/mobile-menu.php:54
+#: inc/customizer/options/header-builder/primary-menu.php:182
+#: inc/customizer/options/header-builder/primary-menu.php:234
+#: inc/customizer/options/header-builder/quaternary-menu.php:94
+#: inc/customizer/options/header-builder/secondary-menu.php:129
+#: inc/customizer/options/header-builder/secondary-menu.php:180
+#: inc/customizer/options/header-builder/tertiary-menu.php:130
+#: inc/customizer/options/header-builder/tertiary-menu.php:181
+#: inc/customizer/options/header/primary-menu.php:216
+#: inc/customizer/options/header/primary-menu.php:270
+#: inc/customizer/options/header/primary-menu.php:329
+#: inc/customizer/options/header/site-identity.php:114
+#: inc/customizer/options/header/site-identity.php:189
+#: inc/customizer/panels-sections/panels-sections.php:44
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:100
+#: inc/customizer/options/content/blog-archive.php:106
+#: inc/customizer/options/content/single-page.php:93
+#: inc/customizer/options/content/single-post.php:96
+#: inc/customizer/panels-sections/panels-sections.php:184
+msgid "Sidebar Layout"
+msgstr "Tata Letak Sidebar"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:91
+#: inc/customizer/options/footer-builder/bottom-area.php:28
+#: inc/customizer/options/footer-builder/main-area.php:28
+#: inc/customizer/options/footer-builder/top-area.php:28
+#: inc/customizer/options/global/layouts.php:40
+#: inc/customizer/options/header-builder/bottom-area.php:16
+#: inc/customizer/options/header-builder/main-area.php:16
+#: inc/customizer/options/header-builder/top-area.php:18
+msgid "Container"
+msgstr "Container"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:83
+#: inc/customizer/options/global/layouts.php:46
+#: inc/customizer/options/global/layouts.php:104
+#: inc/customizer/options/global/sidebar.php:38
+#: inc/customizer/options/header/page-header.php:32
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:121
+#: assets/build/meta.js:1
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: inc/customizer/options/additional/breadcrumb.php:64
+#: inc/customizer/options/footer-builder/main-area.php:65
+msgid "Link Color"
+msgstr "Warna Taut"
+
+#: inc/customizer/panels-sections/panels-sections.php:49
+msgid "Colors"
+msgstr "Warna"
+
+#: inc/customizer/panels-sections/panels-sections.php:5
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:75
+#: inc/customizer/options/footer-builder/bottom-area.php:73
+#: inc/customizer/options/footer-builder/main-area.php:97
+#: inc/customizer/options/footer-builder/top-area.php:73
+#: inc/customizer/options/footer/footer-bar.php:64
+#: inc/customizer/options/footer/footer-widget.php:81
+#: inc/customizer/options/global/button.php:25
+#: inc/customizer/options/header-builder/bottom-area.php:61
+#: inc/customizer/options/header-builder/header-button.php:55
+#: inc/customizer/options/header-builder/main-area.php:61
+#: inc/customizer/options/header-builder/offset-area.php:14
+#: inc/customizer/options/header-builder/search.php:35
+#: inc/customizer/options/header-builder/top-area.php:64
+#: inc/customizer/options/header/header-button.php:69
+#: inc/customizer/options/header/main-header.php:63
+#: inc/customizer/options/header/top-bar.php:65
+msgid "Background"
+msgstr "Latar belakang"
+
+#: inc/customizer/options/header-builder/header-button.php:23
+#: inc/customizer/options/header/header-button.php:30
+msgid "https://example.com"
+msgstr "https://example.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://masteriyo.com/elearning-lms-theme/"
+msgstr "https://masteriyo.com/elearning-lms-theme/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://masteriyo.com"
+msgstr "https://masteriyo.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Masteriyo"
+msgstr "Masteriyo"
